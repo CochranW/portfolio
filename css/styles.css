@@ -47,11 +47,10 @@ body {
 }
 
 .pic1 {
-    position: absolute;
-    width: 20%;
-    margin: 3rem;
-    top: 170px;
-    right: 830px;
+    position: relative;
+    width: 25%;
+    height: 25%;
+    margin: 3 rem;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -63,8 +62,7 @@ body {
     position: absolute;
     width: 25%;
     margin: 3rem;
-    top: 200px;
-    right: 400px;
+    height: 25%;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
